@@ -1,0 +1,1 @@
+create table post (id integer not null primary key, title text, content text, author_id integer not null, foreign key(author_id) references user(id));

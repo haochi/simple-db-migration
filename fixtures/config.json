@@ -1,0 +1,7 @@
+{
+  "type": "sqlite",
+  "deltas": "./deltas",
+  "sqlite": {
+    "file": "./db.sqlite"
+  }
+}

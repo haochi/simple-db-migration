@@ -1,0 +1,3 @@
+.idea
+simple-db-migration
+fixtures/*.sqlite

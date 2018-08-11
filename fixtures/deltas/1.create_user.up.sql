@@ -1,0 +1,1 @@
+create table user (id integer not null primary key, name text);
